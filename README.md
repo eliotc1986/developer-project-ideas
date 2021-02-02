@@ -57,3 +57,8 @@ Build a simple guest counter that will keep track of how many adults, children a
 - Animate the user interactions
 
 ## More coming soon..
+
+I will be adding more ideas to this list soon. In the meantime, please check out these other places for ideas of what to build.
+
+- [dribble.com](https://dribbble.com/) | Get project ideas, color palletes and design inspiration from the world’s top designers & creatives
+- [bootstrap theme library](https://themes.getbootstrap.com/) | Try to build components from the various themes provided here
